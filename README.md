@@ -2,9 +2,11 @@
 
 Pretrained nnU-Net model for segmentation of the internal limiting membrane (ILM) and Bruch's membrane (BM) in retinal optical coherence tomography (OCT) images.
 
-![Example retinal thickness map derived from ILM and BM segmentation](images/thickness_map.png)
+| OCTA-500 ID 10242 — Normal | OCTA-500 ID 10241 — AMD |
+| --- | --- |
+| ![Retinal thickness map for OCTA-500 ID 10242, Normal](images/thickness_map_10242.png) | ![Retinal thickness map for OCTA-500 ID 10241, AMD](images/thickness_map_10241.png) |
 
-*Example retinal thickness map derived from the segmented ILM and BM boundaries.*
+*Example retinal thickness maps derived from the segmented ILM and BM boundaries.*
 
 ## Overview
 
